@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecterRankUP">
+    <output-path>$PROJECT_DIR$/../Plugins</output-path>
+    <root id="archive" name="SpecterRankUP.jar">
+      <element id="module-output" name="SpecterRankUP" />
+    </root>
+  </artifact>
+</component>

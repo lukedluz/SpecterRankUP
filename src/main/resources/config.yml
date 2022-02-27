@@ -1,0 +1,75 @@
+MySQL:
+  Usar: false
+  IP:
+  Porta: 3306
+  Usuario:
+  Senha:
+  Database:
+
+Sons:   
+  Upou: ORB_PICKUP
+  Sem_Coins: HORSE_DEATH
+  Cancelou: EXPLODE      
+  Erro: BAT_DEATH        
+
+Mensagens: 
+  Rank_Invalido:
+  - ''
+  - ' &cNão foi possível estabelecer seu rank'
+  - ' &crelogue para resolver isto.'
+  - ''  
+  Rank_Ultimo:
+  - ''
+  - ' &cNão existe mais nenhum rank.'
+  - ''    
+  Rank_Existente:
+  - ''
+  - ' &aPróximo rank encontrado!'
+  - ' &aMenu de &lUPAR &aaberto com sucesso.'
+  - ''   
+  Upou:
+  - ''
+  - ' &aVocê evolui para o rank @rank_proximo'
+  - ' &apor &2'
+  - ''      
+  Sem_Coins: '&cVocê precisa de +Ⓢ{coins} coins e +✞{runas} runas'
+  Cancelou:
+  - ''
+  - ' &cVocê cancelou a evolução para o rank: @rank_proximo'
+  - ''  
+
+Menu:   
+  Info:                   
+    Url: http://textures.minecraft.net/texture/b4bd9dd128c94c10c945eadaa342fc6d9765f37b3df2e38f7b056dc7c927ed            
+    Titulo: '&eInformações sobre vocêª'
+    Descricao:
+    - ''
+    - ' &7Grupo: @jogador_grupo'
+    - ' &7Coins: &aⓈ@jogador_moedas'
+    - ' &7Runas: &4✞@jogador_runas'
+    - ' &7'
+    - ' &7Rank Atual: @rank_atual'
+    - ' &7Próximo Rank: @rank_proximo'
+    - ''      
+  Aceitar:                     
+    Url: http://textures.minecraft.net/texture/5e48615df6b7ddf3ad495041876d9169bdc983a3fa69a2aca107e8f251f7687            
+    Titulo: '&aAceitar'
+    Descricao:
+    - ''
+    - ' &7Aceitar a evolução para o rank: @rank_proximo'
+    - ' &7Por um custo de:'
+    - ''
+    - ' &7Coins: &aⓈ@custo_coins'
+    - ' &7Runas: &c✞@custo_runas'
+    - ''
+    - ' &7» Clique esquerdo &aAceitar'
+    - ''      
+  Cancelar:               
+    Url: http://textures.minecraft.net/texture/884e92487c6749995b79737b8a9eb4c43954797a6dd6cd9b4efce17cf475846            
+    Titulo: '&cCancelar'
+    Descricao:
+    - ''
+    - ' &7Cancelar a evolução para o rank: @rank_proximo&7?'
+    - ''
+    - ' &7» Clique esquerdo &cCancelar'
+    - ''

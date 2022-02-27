@@ -1,0 +1,61 @@
+Ranks:
+  VacaIII:
+    Prefix: '&8[VacaIII]'  
+    Posicao: 1    
+    Padrao: true
+  VacaII:
+    Prefix: '&8[VacaII]'
+    Coins: 92500000
+    Runas: 100000
+    Posicao: 2
+  VacaI:
+    Prefix: '&8[VacaI]'
+    Coins: 1170000000
+    Runas: 1350000
+    Posicao: 3    
+  PorcoIII:
+    Prefix: '&d[PorcoIII]'  
+    Coins: 5960000000
+    Runas: 9500000
+    Posicao: 4
+  PorcoII:
+    Prefix: '&d[PorcoII]'  
+    Coins: 12350000000
+    Runas: 15500000
+    Posicao: 5
+  PorcoI:
+    Prefix: '&d[PorcoI]'  
+    Coins: 19050000000
+    Runas: 85500000
+    Posicao: 6      
+  OvelhaIII:
+    Prefix: '&f[OvelhaIII]'  
+    Coins: 28300000000
+    Runas: 145500000
+    Posicao: 7
+  OvelhaII:
+    Prefix: '&f[OvelhaII]'  
+    Coins: 46200000000
+    Runas: 685000000
+    Posicao: 8
+  OvelhaI:
+    Prefix: '&f[OvelhaI]'  
+    Coins: 58400000000
+    Runas: 1285000000
+    Posicao: 9
+  ZumbiIII:
+    Prefix: '&2[ZumbiIII]'  
+    Coins: 79900000000
+    Runas: 4285000000
+    Posicao: 10 
+  ZumbiII:
+    Prefix: '&2[ZumbiII]'  
+    Coins: 88100000000
+    Runas: 25285000000
+    Posicao: 11 
+  ZumbiI:
+    Prefix: '&2[ZumbiI]'  
+    Coins: 105990000000
+    Runas: 90285000000
+    Posicao: 12     
+    

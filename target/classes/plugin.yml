@@ -1,0 +1,8 @@
+name: SpecterRankup
+version: 1.0
+main: com.lucas.specterrankup.Main
+author: [Specter]
+commands:
+  rankup:
+    aliases: [evoluir, upar]
+  rank:
